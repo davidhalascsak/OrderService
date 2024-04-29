@@ -1,0 +1,10 @@
+.iws
+.iml
+.ipr
+
+target/
+.idea
+connections.yaml
+deployment_old.yaml
+secret.properties
+*.iml
